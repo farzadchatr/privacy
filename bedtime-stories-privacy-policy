@@ -1,0 +1,103 @@
+Privacy Policy for Bedtime Stories
+
+Last Updated: December 27, 2025
+
+"Bedtime Stories" ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (the "App").
+
+By using the App, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+
+A. Personal Information
+
+When you create an account, we may collect the following personal information:
+
+Email Address: Used for authentication and account recovery.
+
+Name (Optional): Used to personalize your experience.
+
+B. User-Generated Content
+
+We collect the data you provide to generate stories, including:
+
+Story Prompts: Hero names, descriptions, settings, plots, and other creative inputs.
+
+Generated Content: The stories, images, and audio files created by our AI services based on your inputs.
+
+C. Usage Data
+
+We may collect information on how you access and use the App, including:
+
+Device type and operating system.
+
+App usage timestamps and interaction history.
+
+Crash logs and performance data.
+
+D. Transaction Data
+
+We use third-party services to process payments. We do not store your credit card information directly. We track:
+
+Purchase history (e.g., coin packs bought).
+
+Coin balance and usage.
+
+2. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+To Provide Service: To generate text, images, and audio for your custom stories using Artificial Intelligence.
+
+Authentication: To manage your account and login access via Firebase Authentication.
+
+Transactions: To process in-app purchases and manage your virtual currency ("Coins") using RevenueCat.
+
+Improvement: To monitor App performance and improve user experience.
+
+Communication: To send you important updates regarding your account or the Service (e.g., email verification).
+
+3. Third-Party Services
+
+We share data with trusted third-party service providers to facilitate our App's functionality. These providers have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Google Firebase: Used for backend infrastructure, database (Firestore), authentication, and cloud storage.
+
+Google Privacy Policy
+
+Google Cloud Vertex AI & Gemini: Used to generate story text and images.
+
+Google Cloud AI Principles
+
+Google Cloud Text-to-Speech: Used to generate audio narration.
+
+RevenueCat: Used to manage in-app purchases and subscription infrastructure.
+
+RevenueCat Privacy Policy
+
+4. Data Retention and Deletion
+
+Retention: We retain your personal information and generated stories as long as your account is active.
+
+Deletion: You have the right to request the deletion of your account and associated data. You can delete your account directly within the App settings or by contacting us at [Insert Your Support Email]. Upon deletion, all your stories and personal data will be permanently removed from our servers.
+
+5. Children’s Privacy
+
+Our App is designed for families and may be used by children with parental guidance. We comply with the Children's Online Privacy Protection Act (COPPA).
+
+We do not knowingly collect personal identifiable information from children under 13 without verifiable parental consent.
+
+The AI generation is filtered to ensure content is appropriate for children.
+
+If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately.
+
+6. Security
+
+We value your trust in providing us your Personal Information and strive to use commercially acceptable means to protect it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+8. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Insert Your Support Email].
