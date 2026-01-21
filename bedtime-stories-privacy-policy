@@ -1,103 +1,99 @@
-Privacy Policy for Bedtime Stories
+Privacy Policy
 
-Last Updated: December 27, 2025
+Last Updated: January 21, 2026
 
-"Bedtime Stories" ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (the "App").
+Bedtime Stories is a mobile application developed and operated by Farzad Chatrsimab. We are committed to protecting your privacy. This Privacy Policy explains exactly what information is collected and how it is used when you operate the Bedtime Stories mobile application.
 
-By using the App, you agree to the collection and use of information in accordance with this policy.
+By using the application, you agree to the collection and use of information in accordance with this policy.
 
 1. Information We Collect
 
+We believe in privacy by design. We strictly limit data collection to the functional requirements necessary for the application to work.
+
 A. Personal Information
 
-When you create an account, we may collect the following personal information:
+We do not collect your name, age, phone number, physical address, or photos.
 
-Email Address: Used for authentication and account recovery.
+Email Address: When you sign in, we collect your email address solely for authentication purposes via Firebase Authentication. This allows you to securely access your account and recover it if you switch devices.
 
-Name (Optional): Used to personalize your experience.
+B. Application Data
 
-B. User-Generated Content
+To provide the core service of the application, we store the following data linked to your User ID:
 
-We collect the data you provide to generate stories, including:
+Coin Balance: We track your current balance of virtual coins to manage story generation and refunds.
 
-Story Prompts: Hero names, descriptions, settings, plots, and other creative inputs.
+Story Content: We store the stories (text, images, and audio) and the prompts you provide so you can access them in your library.
 
-Generated Content: The stories, images, and audio files created by our AI services based on your inputs.
+Deletion & Refunds: If you choose to delete a story to receive a 20-coin refund, that story data is permanently removed from our database.
 
-C. Usage Data
+C. Transaction Data
 
-We may collect information on how you access and use the App, including:
+We use third-party services to process payments. We do not store your credit card or banking information. We only track:
+
+Purchase history (e.g., specific coin packs purchased).
+
+Subscription status (if applicable).
+
+D. Device and Usage Data
+
+We may collect standard technical information to ensure the application runs correctly, including:
 
 Device type and operating system.
 
-App usage timestamps and interaction history.
-
-Crash logs and performance data.
-
-D. Transaction Data
-
-We use third-party services to process payments. We do not store your credit card information directly. We track:
-
-Purchase history (e.g., coin packs bought).
-
-Coin balance and usage.
+Crash logs (to help us identify and fix bugs).
 
 2. How We Use Your Information
 
-We use the collected information for the following purposes:
+We use the collected information exclusively for the following purposes:
 
-To Provide Service: To generate text, images, and audio for your custom stories using Artificial Intelligence.
+Service Delivery: To generate text, images, and audio for your stories using Artificial Intelligence.
 
-Authentication: To manage your account and login access via Firebase Authentication.
+Account Management: To maintain your persistent login and sync your library across devices.
 
-Transactions: To process in-app purchases and manage your virtual currency ("Coins") using RevenueCat.
+Inventory Management: To accurately track your coin consumption and coin refunds when you delete stories.
 
-Improvement: To monitor App performance and improve user experience.
-
-Communication: To send you important updates regarding your account or the Service (e.g., email verification).
+Customer Support: To assist you if you contact us regarding an issue with your account or a purchase.
 
 3. Third-Party Services
 
-We share data with trusted third-party service providers to facilitate our App's functionality. These providers have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We share data with trusted third-party service providers solely to facilitate the application's functionality. These providers are obligated to protect your data and do not use it for their own marketing purposes.
 
-Google Firebase: Used for backend infrastructure, database (Firestore), authentication, and cloud storage.
+Google Firebase: Used for authentication (Login), database (Firestore), and cloud storage to keep your account secure and your stories saved.
 
 Google Privacy Policy
 
-Google Cloud Vertex AI & Gemini: Used to generate story text and images.
+Google Cloud Vertex AI & Gemini: Used to process your prompts and generate the story text and images.
 
 Google Cloud AI Principles
 
-Google Cloud Text-to-Speech: Used to generate audio narration.
-
-RevenueCat: Used to manage in-app purchases and subscription infrastructure.
+RevenueCat: Used to facilitate in-app purchases and validate transactions with the Apple App Store and Google Play Store.
 
 RevenueCat Privacy Policy
 
 4. Data Retention and Deletion
 
-Retention: We retain your personal information and generated stories as long as your account is active.
+Retention: We retain your email address, coin balance, and saved stories only as long as your account is active.
 
-Deletion: You have the right to request the deletion of your account and associated data. You can delete your account directly within the App settings or by contacting us at [Insert Your Support Email]. Upon deletion, all your stories and personal data will be permanently removed from our servers.
+Story Deletion: You may delete individual stories within the application at any time. When you do so (to reclaim coins), the content is permanently deleted from our servers.
+
+Account Deletion: You have the right to delete your account entirely. You can do this directly within the application settings. Upon account deletion, your email, coin balance, and all generated stories are permanently erased from our database.
 
 5. Children’s Privacy
 
-Our App is designed for families and may be used by children with parental guidance. We comply with the Children's Online Privacy Protection Act (COPPA).
+Bedtime Stories is a tool designed to help parents and users generate stories. While the content is family-friendly, the accounts are intended to be managed by adults (parents or guardians).
 
-We do not knowingly collect personal identifiable information from children under 13 without verifiable parental consent.
-
-The AI generation is filtered to ensure content is appropriate for children.
-
-If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately.
+We do not knowingly collect personally identifiable information (such as names or ages) from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us so that we can delete it.
 
 6. Security
 
-We value your trust in providing us your Personal Information and strive to use commercially acceptable means to protect it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust in providing us your information and strive to use commercially acceptable means to protect it. All data is encrypted in transit and at rest via Google Firebase's security infrastructure. However, no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee its absolute security.
 
 7. Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this page periodically for any changes.
 
 8. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Insert Your Support Email].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+Email: chatrsimab.farzad@gmail.com
